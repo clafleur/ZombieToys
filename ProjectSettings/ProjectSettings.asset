@@ -504,7 +504,8 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   cloudProjectId: fbfc8677-08db-4153-a4de-c47883d0dc82
   projectName: ZombieToys
   organizationId: clafleur
